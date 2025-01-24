@@ -1,6 +1,6 @@
 # CSE 12 PA3: Doubly Linked List
 
-**Due date: Thursday, October 24, 11:59 PM PST**
+**Due date: Thursday, January 30, 2025, 11:59 PM PST**
 
 There is an FAQ post on Piazza. Please read that post first if you have any questions.
 
